@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #1c1d26;
+    color: #ffffff;
+}
+*::selection{
+  background: #e44c65;
+  color: #ffffff;
+}
+.container {
+    max-width: 2000px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 20px;
+    padding: 40px;
+    background-color: #272833;
+    border-radius: 10px;
+    border: 2px solid #929292;
+}
+.copyright {
+    text-align: center;
+    color: #ffffff;
+}
+.about-site {
+    text-align: left;
+    margin-top: 20px;
+}
+.about-site h2, .about-site h3 {
+    margin: 10px 0;
+    font-size: 20px;
+    font-weight: 700;
+}
+.about-site p {
+    margin: 5px 0;
+    font-size: 16px;
+}

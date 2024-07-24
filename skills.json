@@ -1,0 +1,79 @@
+[
+   {
+        "name": "Java",
+        "icon":"https://img.icons8.com/color/50/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/50/python--v1.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/50/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/50/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/50/javascript--v1.png"
+    },
+   {
+        "name": "TypeScript",
+        "icon": "https://img.icons8.com/color/50/typescript.png"
+    },
+   {
+        "name": "Tailwind",
+        "icon": "https://img.icons8.com/color/50/tailwind_css.png"
+    },
+    {
+        "name": "BootStrap",
+        "icon": "https://img.icons8.com/color/50/bootstrap--v2.png"
+    },
+    {
+        "name": "react",
+        "icon": "https://img.icons8.com/plasticine/50/react.png"
+    },
+    {
+        "name": "redux",
+        "icon": "https://img.icons8.com/color/50/redux.png"
+    },
+    {
+        "name": "Next.js",
+        "icon": "https://img.icons8.com/fluency/50/nextjs.png"
+    },
+    {
+        "name": "node.js",
+        "icon": "https://img.icons8.com/fluency/50/node-js.png"
+    },
+    {
+        "name": "express.js",
+         "icon": "https://img.icons8.com/office/50/express-js.png"
+    },   
+    {
+        "name": "my sql",
+        "icon": "https://img.icons8.com/color/50/my-sql.png"
+    },
+    {
+        "name": "mongoDB",
+        "icon": "https://img.icons8.com/color/50/mongodb.png"
+    },     
+   {
+        "name": "Material UI",
+        "icon": "https://img.icons8.com/color/48/material-ui.png"
+    },
+    {
+        "name": "git",
+        "icon": "https://img.icons8.com/color/50/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/nolan/50/github.png"
+    },
+    {
+        "name": "Firebase",
+        "icon":"https://img.icons8.com/color/50/firebase.png"
+    }
+    
+]

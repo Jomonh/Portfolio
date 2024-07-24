@@ -1,0 +1,32 @@
+[   
+    {
+        "id": 1,
+        "name": "linktree",
+        "desc": "a linkree frontend clone to share all my social media links.<br>it also allows you to copy links.",
+        "image": "https://github.com/Jomonh/image-store-for-portfolio/blob/main/Assets/linktree.png?raw=true",
+        "links": {
+            "view": "https://jomonh.github.io/Linktree-Clone/",
+            "code": "https://github.com/Jomonh/Linktree-Clone.git"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Todo list",
+        "desc": "A simple todo app only using html css and javascript here you can create, update and delete all the tasks",
+        "image": "https://github.com/Jomonh/image-store-for-portfolio/blob/main/Assets/Todo.png?raw=true",
+        "links": {
+            "view": "https://jomonh.github.io/to-do-list/",
+            "code": "https://github.com/Jomonh/to-do-list.git"
+        }
+      },
+    {
+        "id": 3,
+        "name": "Digital Clock",
+        "desc": "digital clock that shows time in hours and also it shows day & date of the week.",
+        "image": "https://github.com/Jomonh/image-store-for-portfolio/blob/main/Assets/digital clock.png?raw=true",
+        "links": {
+            "view": "https://jomonh.github.io/Digital-Clock/",
+            "code": "https://github.com/Jomonh/Digital-Clock.git"
+        }
+    }     
+]
